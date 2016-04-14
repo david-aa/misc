@@ -1,0 +1,11 @@
+MIDlet-1: MainMidlet,/clave.png,net.davidasorey.j2me.MMUMidlet
+MIDlet-Description: Music Mobile Utilities
+MIDlet-Icon: /clave.png
+MIDlet-Info-URL: http://davidasorey.net/
+MIDlet-Jar-Size: 18234
+MIDlet-Jar-URL: MMU.jar
+MIDlet-Name: MMU
+MIDlet-Vendor: David Asorey Álvarez
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
